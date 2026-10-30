@@ -1,0 +1,19 @@
+{
+  "milestone": "Milestone 2",
+  "title": "Multimodal Food Recognition and Classification",
+  "executionDate": "2026-10-30T06:06:00.000Z",
+  "testRun": {
+    "sample": "Mediterranean Salmon & Quinoa Salad",
+    "detectedFood": "Mediterranean Grilled Salmon Bowl",
+    "confidence": 0.96,
+    "topPredictions": [
+      {"label": "Grilled Salmon Quinoa Bowl", "probability": 0.96},
+      {"label": "Citrus Herb Avocado Salad", "probability": 0.84},
+      {"label": "Seared Fish Greens Medley", "probability": 0.68}
+    ],
+    "cuisine": "Mediterranean",
+    "processingLevel": "Minimally Processed",
+    "dietaryTags": ["High-Protein", "Keto-Friendly", "Gluten-Free", "Omega-3 Rich"]
+  },
+  "status": "VERIFIED_ACCURATE"
+}

@@ -1,0 +1,25 @@
+{
+  "milestone": "Milestone 3",
+  "title": "Nutritional Intelligence & Caloric Estimation Engine",
+  "executionDate": "2026-10-30T06:06:30.000Z",
+  "testRun": {
+    "servingSize": "1 bowl (380g)",
+    "caloriesCalculated": 485,
+    "macros": {
+      "proteinG": 38.0,
+      "carbsG": 12.5,
+      "fatG": 32.0,
+      "fiberG": 7.2
+    },
+    "micronutrients": {
+      "sodiumMg": 420,
+      "potassiumMg": 890,
+      "calciumMg": 65,
+      "ironMg": 2.8,
+      "vitaminCMg": 34
+    },
+    "glycemicIndex": "Low (<35)",
+    "healthScore": 94
+  },
+  "status": "VERIFIED_ACCURATE"
+}

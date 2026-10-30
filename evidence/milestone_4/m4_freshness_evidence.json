@@ -1,0 +1,19 @@
+{
+  "milestone": "Milestone 4",
+  "title": "Food Freshness & Spoilage Detection",
+  "executionDate": "2026-10-30T06:07:00.000Z",
+  "testRun": {
+    "itemName": "Fresh Gala Apples",
+    "freshnessScore": 92,
+    "freshnessTier": "Fresh / Peak Quality",
+    "estimatedShelfLife": "7-10 days refrigerated (4°C)",
+    "spoilageIndicators": [
+      {"marker": "Skin Turgor", "severity": "None"},
+      {"marker": "Oxidation Browning", "severity": "None"},
+      {"marker": "Mold Fungal Colonies", "severity": "None"}
+    ],
+    "verdict": "Safe to Consume",
+    "limitationNoticeAcknowledged": true
+  },
+  "status": "VERIFIED_ACCURATE"
+}

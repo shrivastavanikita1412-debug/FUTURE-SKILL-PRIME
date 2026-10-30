@@ -1,0 +1,20 @@
+{
+  "milestone": "Milestone 5",
+  "title": "Kitchen and Restaurant Hygiene Compliance",
+  "executionDate": "2026-10-30T06:07:30.000Z",
+  "testRun": {
+    "facilityType": "Commercial Kitchen",
+    "complianceScore": 89,
+    "grade": "Grade B (80-89)",
+    "checklist": {
+      "ppeStaffHygiene": {"status": "Compliant", "score": 95},
+      "surfaceSanitation": {"status": "Compliant", "score": 90},
+      "crossContamination": {"status": "Minor Concern", "score": 82},
+      "storageIntegrity": {"status": "Compliant", "score": 88},
+      "wasteDrainage": {"status": "Compliant", "score": 90}
+    },
+    "violationsCount": 2,
+    "primaryViolation": "FDA Food Code § 3-304.14(B) Sanitizer Cloth Wet Storage"
+  },
+  "status": "VERIFIED_ACCURATE"
+}
